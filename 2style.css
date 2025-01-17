@@ -1,0 +1,45 @@
+body{
+    background-image: url('/img&vid/Screenshot_2025_0114_195630[1].jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position:inherit;
+    background-size: cover;
+}
+
+h2{
+    color: white;
+    font-family: Arial;
+    border-top: 1px solid green;
+    border-bottom: 1px solid green;
+    background-color: green;
+    margin-top: 1px;
+    padding: 15px;
+}
+hr{
+    border-bottom: 1px solid green;
+}
+button{
+    background-color: darkblue;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+h1{
+    border: 1px solid azure;
+    padding: 40px;
+    background-color:azure ;
+}
+a:hover{
+    color: green;
+}
+button:hover{
+    background-color: green;
+}
+button{
+    font-size: 30px;
+}
+a:active{
+    color: gold;
+}

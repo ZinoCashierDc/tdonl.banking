@@ -1,0 +1,62 @@
+h2{
+    color: white;
+    font-family: Arial;
+    border-top: 1px solid green;
+    border-bottom: 1px solid green;
+    background-color: green;
+    margin-top: 1px;
+    padding: 15px;
+}
+hr{
+    border-bottom: 1px solid green;
+}
+#username{
+    padding-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    border-radius: 7px;
+    border-color: grey;
+}
+#password{
+    padding-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    border-radius: 7px;
+    border-color: grey;
+}
+#remember_me{
+    border: 40px solid;
+    border-color: green;
+}
+#login{
+    border-color: gray;
+    background-color: whitesmoke;
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+form{
+    border: -1px solid;
+    padding: 100px;
+    
+}
+body{
+    background-image: url('/img&vid/td2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+}
+#login:hover{
+    background-color: green;
+}
+#login{
+    background-color: rgba(1, 1, 59, 0.889);
+    color:white;
+    margin: 50px;
+}
